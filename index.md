@@ -4,6 +4,6 @@ I'm a 5th year student at Aalto University, majoring in control, robotics and au
 
 <img src="robot.png" alt="drawing" width="300"/>
 
-[Click to view the diary](/diary-056.md)
+[Click to view the diary](./diary-056.md)
 
 
