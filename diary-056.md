@@ -1,4 +1,4 @@
-# This course
+# this course
 
 I took this course in order to learn more about DevOps theory and practices. I'll work in the software industry during my future career, so I think understanding DevOps is very important for me. I already have some working experience as a software developer. Our agile team has been using DevOps for a while, but I haven't been involving in developing DevOps related tools or e.g. CI/CD scripts or pipelines by myself. So I understand the basic principles of DevOps, but I should learn more about how to utilize DevOps in practice.
 
@@ -6,7 +6,7 @@ I'm also expecting to learn why DevOps is important and why one should exercise 
 
 Another reason for taking this course is that I also took course 'Cloud Systems and Technologies' and I think it's useful to take these two courses together. In fact, the courses are a part of larger course called 'Mobile Cloud Computing'. That course would have been interesting, but I did not have time to take the whole course during this semester, since my schedule is very busy.
 
-# Learned
+# learned
 
 My learning during this course took place mostly through tutorial videos which I found very interesting and useful. I watched all of those tutorials and learned many new concepts related to DevOps, CI and CD. I learned that DevOps is not only about specific tools and technologies. It's more about organizational culture and practices.
 
